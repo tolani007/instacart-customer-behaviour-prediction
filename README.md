@@ -23,7 +23,7 @@ This week was all about getting familiar with the dataset and laying the groundw
 
 ---
 
-## 📊 KPIs / Features I Created
+##  KPIs / Features I Created
 
 Here’s a breakdown of the main user-level features I built from the data:
 
