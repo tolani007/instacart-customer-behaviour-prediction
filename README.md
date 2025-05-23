@@ -3,7 +3,7 @@ End-to-end data science project predicting customer lifetime value, churn, and b
 
 #  Instacart Customer Behavior Prediction
 
-## 👋🏾 What this is
+##  What this is
 
 This is a hands-on data science project where I used the [Instacart Market Basket Dataset](https://www.instacart.com/datasets/grocery-shopping-2017) to break down how customers shop, how often they come back, and how valuable they might be over time.
 
