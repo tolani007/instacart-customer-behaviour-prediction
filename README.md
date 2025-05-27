@@ -63,3 +63,11 @@ This project is also part of a full 4-week roadmap I planned to push myself into
 I'll also be sharing my process through a dashboard + blog post once it's all wrapped up.
 
 ---
+###  Large Raw Files
+
+These files were too large for GitHub, so they’re hosted here:
+
+- [orders.csv (Google Drive)](https://drive.google.com/file/d/1PdSspiWpuvbKUp7HCLPuMt3Y1kj_XNdK/view?usp=drive_link)
+- [order_products__prior.csv (Google Drive)](https://drive.google.com/file/d/1CP-S58S5SyRfWkOPKEMfx9yQJtxK2hML/view?usp=drive_link)
+- [products.csv (Google Drive)](https://drive.google.com/file/d/1IWK_-I4ZwegANKL8l6S_7Prh4p19Z6Jg/view?usp=drive_link)
+
